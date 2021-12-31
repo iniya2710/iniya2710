@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iniya2710
-- 👀 I wanted to become an data scientist
-- 🌱 I’m currently doing my matser degree in statistics stream
+- 👋 @iniya2710
+- 👀 Future Data Scientist
+- 🌱 Master in Statistics
 - 📫 How to reach me iniya.t.j.27101999@gmail.com
 
 <!---
